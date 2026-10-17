@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="470" viewBox="0 0 550 470" role="img" aria-labelledby="title desc">
+<title id="title">Estudiante de programación</title><desc id="desc">Ilustración vectorial de una persona que trabaja en una computadora portátil junto a elementos de diseño y código.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eef0ff"/><stop offset="1" stop-color="#dfe7ff"/></linearGradient><linearGradient id="screen" x1="0" x2="1"><stop stop-color="#3649c6"/><stop offset="1" stop-color="#6478f8"/></linearGradient></defs>
+<rect x="30" y="39" width="485" height="385" rx="76" fill="url(#bg)"/>
+<circle cx="93" cy="102" r="17" fill="#f8bd72" opacity=".78"/><circle cx="480" cy="341" r="26" fill="#e7b3ff" opacity=".75"/>
+<rect x="343" y="86" width="121" height="80" rx="17" fill="#fff" opacity=".95"/><path d="M368 118l-10 9 10 9M421 118l10 9-10 9M402 111l-12 33" stroke="#4e62f0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="67" y="223" width="125" height="112" rx="18" fill="#fff" opacity=".95"/><rect x="84" y="245" width="61" height="8" rx="4" fill="#a6b0f8"/><rect x="84" y="263" width="85" height="8" rx="4" fill="#d9dffd"/><rect x="84" y="281" width="70" height="8" rx="4" fill="#d9dffd"/><rect x="84" y="299" width="88" height="8" rx="4" fill="#d9dffd"/>
+<!-- chair -->
+<rect x="317" y="241" width="107" height="133" rx="33" fill="#5965c6"/><rect x="364" y="355" width="14" height="60" rx="6" fill="#5665b4"/>
+<!-- legs -->
+<path d="M273 323l63 20-23 79h-33l14-59-55-17z" fill="#273769"/><path d="M328 340l48-13 55 88h-39l-42-54-51 7z" fill="#354786"/>
+<path d="M277 413h46v12h-62q0-12 16-12ZM391 409h47l12 16h-65z" fill="#27314e"/>
+<!-- body -->
+<path d="M227 214q21-37 69-33 54 3 78 45l12 102q-61 40-144-2l-35-55z" fill="#5163e0"/>
+<path d="M228 234l-15 40 31 49 23-13-29-47z" fill="#4456cd"/>
+<!-- head and hair -->
+<path d="M253 166q-16-33 5-60 21-26 54-17 35 6 37 41l-5 30-21 16-55 9z" fill="#242e4f"/>
+<path d="M279 140q7-15 28-13 17 3 20 19v29q-5 31-28 35-25-3-31-31v-15z" fill="#e7a478"/>
+<path d="M261 156q15-5 20-23 23 11 50 1l-9-36-45 5z" fill="#242e4f"/>
+<path d="M288 205l28 1-2 22-16 15-17-19z" fill="#e3a074"/>
+<!-- desk and laptop -->
+<rect x="191" y="325" width="285" height="17" rx="8" fill="#fbbd7a"/><rect x="204" y="342" width="15" height="86" rx="7" fill="#e3a56b"/><rect x="450" y="342" width="15" height="86" rx="7" fill="#e3a56b"/>
+<path d="M257 246q0-9 10-9h139q8 0 7 9l-18 82H275z" fill="url(#screen)"/><path d="M271 317h135l-8 11H265z" fill="#293c9a"/><circle cx="337" cy="279" r="13" stroke="#cfdaff" stroke-width="5" fill="none"/><path d="M330 279l5 5 10-12" fill="none" stroke="#cfdaff" stroke-width="3" stroke-linecap="round"/>
+<!-- arm at laptop -->
+<path d="M228 248q14-10 30 0l29 39 33 12-7 20q-45-3-58-22l-29-26z" fill="#5d6cf1"/><path d="M302 297q12-6 22 0l12 10q4 6-2 9l-22 4-11-7z" fill="#e7a478"/>
+<circle cx="140" cy="164" r="29" fill="#fff"/><path d="M125 168l10 10 21-27" fill="none" stroke="#44bd9a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
